@@ -1,0 +1,7 @@
+If this message goes through, just know youre awesome :) >>litFile.txt
+git add litFile.txt
+git commit -m "Add litFile.txt"
+git push
+$ git add litFile.txt
+git status
+echo If this message goes through\, just know you\re awesome :)
